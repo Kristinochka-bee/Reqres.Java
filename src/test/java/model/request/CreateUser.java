@@ -1,4 +1,4 @@
-package model.response;
+package model.request;
 
 public class CreateUser {
     private String name ;

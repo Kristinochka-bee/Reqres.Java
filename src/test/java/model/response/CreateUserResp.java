@@ -1,3 +1,5 @@
+package model.response;
+
 public class CreateUserResp {
 
         public String name;
